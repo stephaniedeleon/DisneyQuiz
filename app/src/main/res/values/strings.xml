@@ -1,12 +1,13 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <!-- NEED TO COMPLETE THE QUESTIONS -->
-    <string name="question_australia">Canberra is the capital of Australia.</string>
-    <!--<string name="question_"></string>
-    <string name="question_"></string>
-    <string name="question_"></string>
-    <string name="question_"></string>
-    <string name="question_"></string> -->
+    <string name="question_film">Do any of the Disney films feature the song \'Almost There\'?</string>
+    <string name="question_frozen">In Frozen, Anna and Hans finish each other\'s sentences.</string>
+    <string name="question_france">There are 6 Disney and Pixar movies are set in France.</string>
+    <string name="question_largest">Animal Kingdom is the largest theme park at Walt Disney World Resort.</string>
+    <string name="question_planet">Batuu is the planet you are on when you visit Star Wars Galaxy Edge.</string>
+    <string name="question_dole">Is strawberry the original flavor of Dole Whip?</string>
+    <string name="question_snack">Is Churro the most popular Disneyland snack?</string>
+    <string name="question_open">Disneyland first opened in 1955.</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="next_button">Next</string>
