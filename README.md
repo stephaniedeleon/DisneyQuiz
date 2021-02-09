@@ -1,4 +1,4 @@
-# Project 1 - *Disney Quiz App*
+# *Disney Quiz App*
 
 **DisneyQuiz** is an android app that allows playing a trivia quiz about Disney.
 
