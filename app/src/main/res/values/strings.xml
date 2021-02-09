@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GeoQuiz</string>
+    <string name="app_name">DisneyQuiz</string>
     <string name="question_film">Do any of the Disney films feature the song \'Almost There\'?</string>
     <string name="question_frozen">In Frozen, Anna and Hans finish each other\'s sentences.</string>
     <string name="question_france">There are 6 Disney and Pixar movies are set in France.</string>
